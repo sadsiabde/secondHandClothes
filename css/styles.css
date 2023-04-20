@@ -1,0 +1,33 @@
+body {
+  background-color: #33FFFC;
+}
+
+h1 {
+  text-align: center;
+}
+
+hr {
+  border: 1px solid black
+}
+
+td {
+  font-weight: bold;
+}
+
+
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height:28rem;
+  width:21.2rem;
+}
+
+.container {
+  text-align:
+}
+
+h4 {
+  text-align: right;
+}
